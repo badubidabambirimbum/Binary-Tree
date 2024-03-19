@@ -5,7 +5,6 @@ class TreeNode:
         self.right = right
 
 class Tree:
-
     def __init__(self):
         pass
 
